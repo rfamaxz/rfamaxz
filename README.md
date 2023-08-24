@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rafael Alejandro!</h1>
 
-- 🔭 I am currently studying Software Engineering at UniFil
+- 🔭 I am currently studying Software Engineering in UniFil
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
