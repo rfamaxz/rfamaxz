@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rafael Alejandro</h1>
-<h3 align="center">Software Engineering student.</h3>
+<h1 align="center">Hi, I'm Rafael Alejandro</h1>
 
-- 🔭 I’m currently working on [Bite by Bite](https://sites.google.com/edu.unifil.br/bitebybite/p%C3%A1gina-inicial)
+- 🔭 I am currently studying software engineering at UniFil
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
