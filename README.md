@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rafael Alejandro!</h1>
 
-- 🔭  Studying Software Engineering at [UniFil](https://unifil.br)
-- 📫  How to reach me rafael.gianolla@hotmail.com
+- 🔭   Studying Software Engineering at [UniFil](https://unifil.br)
+- 📫   How to reach me rafael.gianolla@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
